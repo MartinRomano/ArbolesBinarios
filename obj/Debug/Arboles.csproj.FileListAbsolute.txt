@@ -1,0 +1,31 @@
+D:\Facultad\Programación I\Arboles\Arbol1\Arboles\bin\Debug\Arboles.exe.config
+D:\Facultad\Programación I\Arboles\Arbol1\Arboles\bin\Debug\Arboles.exe
+D:\Facultad\Programación I\Arboles\Arbol1\Arboles\bin\Debug\Arboles.pdb
+D:\Facultad\Programación I\Arboles\Arbol1\Arboles\obj\Debug\Arboles.csprojResolveAssemblyReference.cache
+D:\Facultad\Programación I\Arboles\Arbol1\Arboles\obj\Debug\Arboles.Form1.resources
+D:\Facultad\Programación I\Arboles\Arbol1\Arboles\obj\Debug\Arboles.Properties.Resources.resources
+D:\Facultad\Programación I\Arboles\Arbol1\Arboles\obj\Debug\Arboles.csproj.GenerateResource.Cache
+D:\Facultad\Programación I\Arboles\Arbol1\Arboles\obj\Debug\Arboles.exe
+D:\Facultad\Programación I\Arboles\Arbol1\Arboles\obj\Debug\Arboles.pdb
+D:\Arboles\bin\Debug\Arboles.exe.config
+D:\Arboles\obj\Debug\Arboles.exe
+D:\Arboles\obj\Debug\Arboles.pdb
+D:\Arboles\bin\Debug\Arboles.exe
+D:\Arboles\bin\Debug\Arboles.pdb
+D:\Arboles\obj\Debug\Arboles.csprojResolveAssemblyReference.cache
+D:\Arboles\obj\Debug\Arboles.Form1.resources
+D:\Arboles\obj\Debug\Arboles.Properties.Resources.resources
+D:\Arboles\obj\Debug\Arboles.csproj.GenerateResource.Cache
+G:\Programación 1\Clase 9\V2\Arboles\bin\Debug\Arboles.exe.config
+G:\Programación 1\Clase 9\V2\Arboles\obj\Debug\Arboles.exe
+G:\Programación 1\Clase 9\V2\Arboles\obj\Debug\Arboles.pdb
+C:\Users\GeRomano\Desktop\UAI\Programacion I\Arboles\bin\Debug\Arboles.exe.config
+C:\Users\GeRomano\Desktop\UAI\Programacion I\Arboles\bin\Debug\Arboles.exe
+C:\Users\GeRomano\Desktop\UAI\Programacion I\Arboles\bin\Debug\Arboles.pdb
+C:\Users\GeRomano\Desktop\UAI\Programacion I\Arboles\obj\Debug\Arboles.csprojResolveAssemblyReference.cache
+C:\Users\GeRomano\Desktop\UAI\Programacion I\Arboles\obj\Debug\Arboles.Form1.resources
+C:\Users\GeRomano\Desktop\UAI\Programacion I\Arboles\obj\Debug\Arboles.Properties.Resources.resources
+C:\Users\GeRomano\Desktop\UAI\Programacion I\Arboles\obj\Debug\Arboles.csproj.GenerateResource.Cache
+C:\Users\GeRomano\Desktop\UAI\Programacion I\Arboles\obj\Debug\Arboles.exe
+C:\Users\GeRomano\Desktop\UAI\Programacion I\Arboles\obj\Debug\Arboles.pdb
+C:\Users\GeRomano\Desktop\UAI\Programacion I\ARBOLES\obj\Debug\Arboles.csproj.CoreCompileInputs.cache
